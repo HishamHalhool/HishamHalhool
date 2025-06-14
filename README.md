@@ -44,7 +44,6 @@ Database & Tools:
 
 ## 🌟 Featured Projects
 
-- 📝 [Car-rental-app](https://github.com/Ali-Tharwat-181/car_rental_app) – Responsive website & localStorage  
 
 
 ---
